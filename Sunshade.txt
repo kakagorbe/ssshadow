@@ -1,3 +1,7 @@
+//profile-title: base64:TW1yZXphLWFrNDc
+//profile-update-interval: 1
+//subscription-userinfo: upload=5368709120; download=4294967296; total=1073741824000; expire=3969977932
+#profile-web-page-url: @kakagorbe
 {
   "log": {
     "level": "warn",
